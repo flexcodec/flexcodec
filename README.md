@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @flexcodec
-- 👀 I’m interested in flexcodec
-- 🌱 I’m currently learning python and data mining
+- 👀 I’m interested in data science, coding, computer security, Ai learning
+- 🌱 I’m currently learning Rubu,React,Nodejs,python and data mining
 - 💞️ I’m looking to collaborate on python dev and others 
 - 📫 How to reach me flexcodec@gmail.com
 
